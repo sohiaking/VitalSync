@@ -14,7 +14,7 @@
 
 <br/>
 
-[⬇ Download APK](#-download--installation) &nbsp;|&nbsp; [▶ Demo Video](#-demo-video) &nbsp;|&nbsp; [✨ Features](#-features) &nbsp;|&nbsp; [🛠 Tech Stack](#-tech-stack) &nbsp;|&nbsp; [🚀 Get Started](#-getting-started)
+[⬇ Download APK](https://drive.google.com/file/d/1BZ0fANnStvVKee2o4VBLItw91JuSD2vx/view?usp=drivesdk) &nbsp;|&nbsp; [▶ Demo Video](#-demo-video) &nbsp;|&nbsp; [✨ Features](#-features) &nbsp;|&nbsp; [🛠 Tech Stack](#-tech-stack) &nbsp;|&nbsp; [🚀 Get Started](#-getting-started)
 
 <br/>
 
