@@ -207,7 +207,7 @@ Then in Android Studio:
 1. Wait for **Gradle sync** to complete
 2. Add your **Google Maps API key** in `local.properties`:
    ```
-   MAPS_API_KEY=AIzaSyCApXrevs5kokyH62PAW0o8R7TbcosENcI
+   MAPS_API_KEY=your_api_key_here
    ```
 3. Click **Run** or press `Shift + F10`
 4. Select your device or emulator
